@@ -16,4 +16,4 @@ while True:
     led.on()  # Turn the LED on
     sleep(1)  # Wait for 1 second
     led.off() # Turn the LED off
-    sleep(1)  # Wait for 1 second
+    sleep(0.2)  # Wait for 1 second
