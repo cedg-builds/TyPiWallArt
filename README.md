@@ -11,5 +11,5 @@ Rasberry pi 4b
 A simple boot up script in stalled on the raspi to pull from this repo on start up. To update the raspi, simply push changes to master in this repo and turn it off/on.
 
 ### Authors
-- Cody Edgintgon
 - Tyson Edgington
+- Cody Edgintgon
